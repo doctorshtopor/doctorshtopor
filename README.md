@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31rzgr42ifx2tboupzzaghfoe5cq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&profanity=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=31rzgr42ifx2tboupzzaghfoe5cq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&profanity=false)](https://github.com/kittinan/spotify-github-profile)
 -->
