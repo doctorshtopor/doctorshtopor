@@ -30,6 +30,13 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/MPI-333333?style=for-the-badge&logo=parallelcomputing&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenMP-5C2D91?style=for-the-badge&logo=openmp&logoColor=white"/>
 </p>
+<p align="center">
+  <!-- Инструменты -->
+  <img src="https://img.shields.io/badge/Reaper-000000?style=for-the-badge&logo=reaper&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+</p>
 
 
 ## 🎶 Я очень люблю музыку! Вот что я сейчас слушаю:
