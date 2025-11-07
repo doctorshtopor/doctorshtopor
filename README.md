@@ -25,6 +25,11 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white"/>
 </p>
+<p align="center">
+  <!-- Параллельные вычисления -->
+  <img src="https://img.shields.io/badge/MPI-333333?style=for-the-badge&logo=parallelcomputing&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenMP-5C2D91?style=for-the-badge&logo=openmp&logoColor=white"/>
+</p>
 
 
 ## 🎶 Я очень люблю музыку! Вот что я сейчас слушаю:
