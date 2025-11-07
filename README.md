@@ -2,7 +2,6 @@
 
 [![Header](header.svg)](mailto:zakharovgd23@gmail.com)
 
-[![Animated Header](shapka.svg)]
 
 
 <!--
