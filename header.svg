@@ -27,7 +27,7 @@
   </text>
   
   <!-- Почта с отступом -->
-  <text x="120" y="130" font-family="Monaco, Consolas, 'Courier New', monospace" font-size="18" fill="#FF6B35" opacity="0">
+  <text x="150" y="130" font-family="Monaco, Consolas, 'Courier New', monospace" font-size="18" fill="#FF6B35" opacity="0">
     zakharovgd23@gmail.com
     <animate attributeName="opacity" from="0" to="1" dur="0.6s" begin="2.6s" fill="freeze"/>
   </text>
