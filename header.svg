@@ -17,9 +17,15 @@
     <animate attributeName="opacity" from="0" to="1" dur="0.6s" begin="1.8s" fill="freeze"/>
   </text>
 
-  <!-- Email текст (без ссылки) -->
+  <!-- Текст "Связь:" -->
   <text x="20" y="132" font-family="Fira Code, Roboto, -apple-system, system-ui, 'Segoe UI', 'Helvetica Neue', Arial" font-size="15.5" fill="#FF6B35" opacity="0">
-    📫 Связь: zakharovgd23@gmail.com
+    📫 Связь: 
+    <animate attributeName="opacity" from="0" to="1" dur="0.6s" begin="2.6s" fill="freeze"/>
+  </text>
+
+  <!-- Почта отдельно (будет подчеркнута через ссылку) -->
+  <text x="85" y="132" font-family="Fira Code, Roboto, -apple-system, system-ui, 'Segoe UI', 'Helvetica Neue', Arial" font-size="15.5" fill="#FF6B35" opacity="0" text-decoration="underline">
+    zakharovgd23@gmail.com
     <animate attributeName="opacity" from="0" to="1" dur="0.6s" begin="2.6s" fill="freeze"/>
   </text>
 </svg>
