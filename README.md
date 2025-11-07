@@ -17,4 +17,10 @@ Here are some ideas to get you started:
 
 
 -->
-![Now Playing](https://lastfm-recently-played.vercel.app/api?user=drshtopor6&count=1&cachebuster=1730974800)
+
+
+## 🎶 Сейчас играет
+
+<a href="https://www.last.fm/user/drshtopor6" target="_blank">
+  <img src="https://lastfm-recently-played.vercel.app/api?user=drshtopor6&count=1&border_radius=10&width=500&bg_color=0d1117&track_name_color=00b3ff&artist_name_color=b3b3b3&cachebuster=1730974800" alt="Now Playing" />
+</a>
