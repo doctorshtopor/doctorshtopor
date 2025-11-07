@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 -->
+![snake gif](https://github.com/doctorshtopor/doctorshtopor/blob/output/github-contribution-grid-snake.svg)
+
+
 ### ⚙️ Стек технологий
 ![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
