@@ -14,10 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<p align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31rzgr42ifx2tboupzzaghfoe5cq&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31rzgr42ifx2tboupzzaghfoe5cq&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=false">
-  </a>
-</p>
+![Now Playing](https://lastfm-recently-played.vercel.app/api?user=drshtopor6&count=1)
 
 -->
