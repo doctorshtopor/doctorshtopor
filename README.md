@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-![Now Playing](https://lastfm-recently-played.vercel.app/api?user=drshtopor6&count=1)
+![Now Playing](https://lastfm-recently-played.vercel.app/api?user=drshtopor6&count=1&cachebuster=1730974800)
 
 -->
