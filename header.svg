@@ -2,30 +2,27 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="760" height="160" viewBox="0 0 760 160">
   <rect width="100%" height="100%" fill="transparent"/>
 
-  <text x="20" y="36" font-family="Fira Code, Roboto, -apple-system, system-ui, 'Segoe UI', 'Helvetica Neue', Arial" font-size="20" fill="#FF2E63" opacity="0">
+  <!-- Первая строка -->
+  <text x="20" y="40" font-family="Fira Code, Roboto, -apple-system, system-ui, 'Segoe UI', 'Helvetica Neue', Arial" font-size="18" fill="#FF2E63" opacity="0">
     👩‍💻 Начинающий разработчик
     <animate attributeName="opacity" from="0" to="1" dur="0.6s" begin="0s" fill="freeze"/>
   </text>
 
-  <text x="20" y="70" font-family="Fira Code, Roboto, -apple-system, system-ui, 'Segoe UI', 'Helvetica Neue', Arial" font-size="16.5" fill="#21BF73" opacity="0">
+  <!-- Вторая строка -->
+  <text x="20" y="70" font-family="Fira Code, Roboto, -apple-system, system-ui, 'Segoe UI', 'Helvetica Neue', Arial" font-size="18" fill="#21BF73" opacity="0">
     🌱 Интересуюсь математикой и параллельным программированием
     <animate attributeName="opacity" from="0" to="1" dur="0.6s" begin="0.9s" fill="freeze"/>
   </text>
 
-  <text x="20" y="100" font-family="Fira Code, Roboto, -apple-system, system-ui, 'Segoe UI', 'Helvetica Neue', Arial" font-size="16.5" fill="#9D4EDD" opacity="0">
+  <!-- Третья строка -->
+  <text x="20" y="100" font-family="Fira Code, Roboto, -apple-system, system-ui, 'Segoe UI', 'Helvetica Neue', Arial" font-size="18" fill="#9D4EDD" opacity="0">
     🔎 В поиске стажировки
     <animate attributeName="opacity" from="0" to="1" dur="0.6s" begin="1.8s" fill="freeze"/>
   </text>
 
-  <!-- Текст "Связь:" -->
-  <text x="20" y="132" font-family="Fira Code, Roboto, -apple-system, system-ui, 'Segoe UI', 'Helvetica Neue', Arial" font-size="15.5" fill="#FF6B35" opacity="0">
-    📫 Связь: 
-    <animate attributeName="opacity" from="0" to="1" dur="0.6s" begin="2.6s" fill="freeze"/>
-  </text>
-
-  <!-- Почта отдельно (будет подчеркнута через ссылку) -->
-  <text x="85" y="132" font-family="Fira Code, Roboto, -apple-system, system-ui, 'Segoe UI', 'Helvetica Neue', Arial" font-size="15.5" fill="#FF6B35" opacity="0" text-decoration="underline">
-    zakharovgd23@gmail.com
+  <!-- Четвертая строка -->
+  <text x="20" y="130" font-family="Fira Code, Roboto, -apple-system, system-ui, 'Segoe UI', 'Helvetica Neue', Arial" font-size="18" fill="#FF6B35" opacity="0">
+    📫 Связь: zakharovgd23@gmail.com
     <animate attributeName="opacity" from="0" to="1" dur="0.6s" begin="2.6s" fill="freeze"/>
   </text>
 </svg>
