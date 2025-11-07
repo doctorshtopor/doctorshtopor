@@ -1,6 +1,6 @@
 ## Привет 👋 Я Захаров Григорий
 
-<img src="./header.svg" alt="animated header"/>
+
 <svg fill="none" viewBox="0 0 800 180" width="800" height="180" xmlns="http://www.w3.org/2000/svg">
   <style>
     .text { 
@@ -25,7 +25,7 @@
   <text x="20" y="120" class="text t3">🔎 В поиске стажировки</text>
   <text x="20" y="160" class="text t4">📫 Связь: zakharovgd23@gmail.com</text>
 </svg>
-
+<img src="./header.svg" alt="animated header"/>
 
 
 
