@@ -2,6 +2,8 @@
 
 [![Header](header.svg)](mailto:zakharovgd23@gmail.com)
 
+[![Animated Header](shapka.svg)]
+
 
 <!--
 **doctorshtopor/doctorshtopor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
