@@ -1,6 +1,7 @@
 ## Привет 👋 Я Захаров Григорий
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&color=00C2CB&width=435&lines=Привет!+Я+Аня;Люблю+математику+и+код;Ищу+стажировку+🚀)
+![animated header](https://readme-animated-svg.vercel.app/api?text=👩‍💻%20Начинающий%20разработчик%0A🌱%20Интересуюсь%20математикой%20и%20параллельным%20программированием%0A🔎%20В%20поиске%20стажировки%0A📫%20Связь%3A%20zakharovgd23%40gmail.com&fontSize=22&color=00c2cb&center=true&width=600&linespace=10)
+
 
 
 👩‍💻 Начинающий разработчик  
