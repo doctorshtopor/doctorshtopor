@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 -->
 
 
-## 🎶 Сейчас играет
+## 🎶 Я очень люблю музыку! Вот что я сейчас слушаю:
+
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31rzgr42ifx2tboupzzaghfoe5cq&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&profanity=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31rzgr42ifx2tboupzzaghfoe5cq&redirect=true)
