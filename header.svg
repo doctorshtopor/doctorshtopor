@@ -1,17 +1,37 @@
-<p align="center">
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="160" viewBox="0 0 760 160" role="img" aria-label="Header">
+  <!-- Фон -->
+  <rect width="100%" height="100%" fill="transparent"/>
   
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&duration=3000&color=FF2E63&center=true&vCenter=true&width=500&lines=👩‍💻+Начинающий+разработчик" />
-  
-  <br>
-  
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=18&duration=3000&color=21BF73&center=true&vCenter=true&width=600&lines=🌱+Интересуюсь+математикой+и+параллельным+программированием" />
-  
-  <br>
-  
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=18&duration=3000&color=9D4EDD&center=true&vCenter=true&width=400&lines=🔎+В+поиске+стажировки" />
-  
-  <br><br>
-  
-  [📫 **Связь: zakharovgd23@gmail.com**](mailto:zakharovgd23@gmail.com)
-  
-</p>
+  <!-- Кликабельная ссылка для email -->
+  <a href="mailto:zakharovgd23@gmail.com" target="_blank">
+    <text x="20" y="132" font-family="Fira Code, Roboto, -apple-system, system-ui, 'Segoe UI', 'Helvetica Neue', Arial" font-size="15.5" fill="#FF6B35" opacity="0" style="cursor: pointer; text-decoration: underline;">
+      📫 Связь: zakharovgd23@gmail.com
+      <animate attributeName="opacity" from="0" to="1" dur="0.6s" begin="2.6s" fill="freeze"/>
+    </text>
+    
+    <!-- Подчеркивание при наведении (анимация) -->
+    <rect x="20" y="135" width="260" height="2" fill="#FF6B35" opacity="0">
+      <animate attributeName="opacity" from="0" to="0.7" dur="0.3s" begin="2.6s" fill="freeze"/>
+      <animate attributeName="width" from="0" to="260" dur="0.5s" begin="2.6s" fill="freeze"/>
+    </rect>
+  </a>
+
+  <!-- Первая строка - яркий синий -->
+  <text x="20" y="36" font-family="Fira Code, Roboto, -apple-system, system-ui, 'Segoe UI', 'Helvetica Neue', Arial" font-size="20" fill="#FF2E63" opacity="0">
+    👩‍💻 Начинающий разработчик
+    <animate attributeName="opacity" from="0" to="1" dur="0.6s" begin="0s" fill="freeze"/>
+  </text>
+
+  <!-- Вторая строка - яркий зеленый -->
+  <text x="20" y="70" font-family="Fira Code, Roboto, -apple-system, system-ui, 'Segoe UI', 'Helvetica Neue', Arial" font-size="16.5" fill="#21BF73" opacity="0">
+    🌱 Интересуюсь математикой и параллельным программированием
+    <animate attributeName="opacity" from="0" to="1" dur="0.6s" begin="0.9s" fill="freeze"/>
+  </text>
+
+  <!-- Третья строка - яркий фиолетовый -->
+  <text x="20" y="100" font-family="Fira Code, Roboto, -apple-system, system-ui, 'Segoe UI', 'Helvetica Neue', Arial" font-size="16.5" fill="#9D4EDD" opacity="0">
+    🔎 В поиске стажировки
+    <animate attributeName="opacity" from="0" to="1" dur="0.6s" begin="1.8s" fill="freeze"/>
+  </text>
+</svg>
