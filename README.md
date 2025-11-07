@@ -2,8 +2,6 @@
 
 [![Header](header.svg)](mailto:zakharovgd23@gmail.com)
 
-[![Click me!](banner.svg)](https://your-portfolio-link.com)
-
 
 <!--
 **doctorshtopor/doctorshtopor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
