@@ -14,9 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-
-
 -->
+### ⚙️ Стек технологий
+![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
+![Reaper](https://img.shields.io/badge/Reaper-000000?logo=reaper&logoColor=white)
 
 
 ## 🎶 Я очень люблю музыку! Вот что я сейчас слушаю:
