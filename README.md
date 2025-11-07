@@ -1,33 +1,6 @@
 ## Привет 👋 Я Захаров Григорий
 
 
-<svg fill="none" viewBox="0 0 800 180" width="800" height="180" xmlns="http://www.w3.org/2000/svg">
-  <style>
-    .text { 
-      font-family: 'Fira Code', monospace;
-      font-size: 22px;
-      fill: #00C2CB;
-      opacity: 0;
-      animation: fadein 2s forwards;
-    }
-    .t1 { animation-delay: 0s; }
-    .t2 { animation-delay: 1s; }
-    .t3 { animation-delay: 2s; }
-    .t4 { animation-delay: 3s; }
-
-    @keyframes fadein {
-      to { opacity: 1; }
-    }
-  </style>
-
-  <text x="20" y="40" class="text t1">👩‍💻 Начинающий разработчик</text>
-  <text x="20" y="80" class="text t2">🌱 Интересуюсь математикой и параллельным программированием</text>
-  <text x="20" y="120" class="text t3">🔎 В поиске стажировки</text>
-  <text x="20" y="160" class="text t4">📫 Связь: zakharovgd23@gmail.com</text>
-</svg>
-<img src="./header.svg" alt="animated header"/>
-
-
 
 👩‍💻 Начинающий разработчик  
 
