@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 -->
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=doctorshtopor&show_icons=true&theme=transparent)
 
 ### ⚙️ Стек технологий
 ![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54)
