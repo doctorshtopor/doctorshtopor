@@ -3,14 +3,6 @@
 [![Header](header.svg)](mailto:zakharovgd23@gmail.com)
 
 
-👩‍💻 Начинающий разработчик  
-
-🌱 Интересуюсь математикой и параллельным программированием  
-
-🔎 В поиске стажировки  
-
-📫 Связь: zakharovgd23@gmail.com
-
 <!--
 **doctorshtopor/doctorshtopor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
