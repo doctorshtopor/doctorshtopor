@@ -1,28 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="760" height="160" viewBox="0 0 760 160" role="img" aria-label="Header">
-  <!--
-    Рабочая SMIL-анимация: каждая строка плавно появляется и остаётся (fill="freeze").
-    GitHub обычно оставляет <animate>, в отличие от <style>-CSS, которое он может убрать.
-  -->
+<svg xmlns="http://www.w3.org/2000/svg" width="780" height="160" viewBox="0 0 780 160" role="img" aria-label="Header">
   <rect width="100%" height="100%" fill="transparent"/>
 
-  <text x="20" y="36" font-family="Fira Code, Roboto, -apple-system, system-ui, 'Segoe UI', 'Helvetica Neue', Arial" font-size="20" fill="#00A8B5" opacity="0">
+  <text x="20" y="36" font-family="Fira Code, Roboto, system-ui" font-size="22" fill="#00FFFF" opacity="0">
     👩‍💻 Начинающий разработчик
-    <animate attributeName="opacity" from="0" to="1" dur="0.6s" begin="0s" fill="freeze"/>
+    <animate attributeName="opacity" from="0" to="1" dur="0.7s" begin="0s" fill="freeze"/>
   </text>
 
-  <text x="20" y="70" font-family="Fira Code, Roboto, -apple-system, system-ui, 'Segoe UI', 'Helvetica Neue', Arial" font-size="16.5" fill="#2D6A4F" opacity="0">
+  <text x="20" y="70" font-family="Fira Code, Roboto, system-ui" font-size="18" fill="#ADFF2F" opacity="0">
     🌱 Интересуюсь математикой и параллельным программированием
-    <animate attributeName="opacity" from="0" to="1" dur="0.6s" begin="0.9s" fill="freeze"/>
+    <animate attributeName="opacity" from="0" to="1" dur="0.7s" begin="1s" fill="freeze"/>
   </text>
 
-  <text x="20" y="100" font-family="Fira Code, Roboto, -apple-system, system-ui, 'Segoe UI', 'Helvetica Neue', Arial" font-size="16.5" fill="#444444" opacity="0">
-    🔎 В поиске стажировки
-    <animate attributeName="opacity" from="0" to="1" dur="0.6s" begin="1.8s" fill="freeze"/>
-  </text>
+  <text x="20" y="105" font
 
-  <text x="20" y="132" font-family="Fira Code, Roboto, -apple-system, system-ui, 'Segoe UI', 'Helvetica Neue', Arial" font-size="15.5" fill="#333333" opacity="0">
-    📫 Связь: zakharovgd23@gmail.com
-    <animate attributeName="opacity" from="0" to="1" dur="0.6s" begin="2.6s" fill="freeze"/>
-  </text>
-</svg>
