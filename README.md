@@ -1,22 +1,6 @@
 ## Привет 👋 Я Захаров Григорий
 
-<p align="center">
-  
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&duration=3000&color=FF2E63&center=true&vCenter=true&width=500&lines=👩‍💻+Начинающий+разработчик" />
-  
-  <br>
-  
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=18&duration=3000&color=21BF73&center=true&vCenter=true&width=600&lines=🌱+Интересуюсь+математикой+и+параллельным+программированием" />
-  
-  <br>
-  
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=18&duration=3000&color=9D4EDD&center=true&vCenter=true&width=400&lines=🔎+В+поиске+стажировки" />
-  
-  <br><br>
-  
-  [📫 **Связь: zakharovgd23@gmail.com**](mailto:zakharovgd23@gmail.com)
-  
-</p>
+[![Header](header.svg)](mailto:zakharovgd23@gmail.com)
 
 
 👩‍💻 Начинающий разработчик  
