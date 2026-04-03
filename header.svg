@@ -4,7 +4,7 @@
 
   <!-- Первая строка -->
   <text x="20" y="40" font-family="Monaco, Consolas, 'Courier New', monospace" font-size="18" fill="#FF2E63" opacity="0">
-    👩‍💻 Начинающий разработчик
+    👩‍💻 Начинающий аналитик
     <animate attributeName="opacity" from="0" to="1" dur="0.6s" begin="0s" fill="freeze"/>
   </text>
 
